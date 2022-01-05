@@ -1,2 +1,2 @@
 # pygame
-Simple game to explore the possibilities of Pygame
+Simple games to explore the possibilities of Pygame
